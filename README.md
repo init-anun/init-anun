@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="banner.png" alt="Developer Banner" width="1000%" height="300px">
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="banner.png" alt="Developer Banner" width="1000%" height="300px"> -->
+<!-- </p> -->
 
 # Hi there, I'm Arun 👋
 
