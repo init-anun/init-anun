@@ -45,15 +45,6 @@ I am a software engineer focused on building clean, efficient, and scalable web 
 
 ---
 
-### 📂 Highlighted Projects
-
-*A few notable personal projects that I maintain in my spare time:*
-
-- **[project-name](https://github.com/init-anun/project-name)** — A brief, realistic description of what this project does. E.g., "A lightweight API gateway designed for low latency microservices."
-- **[another-repo](https://github.com/init-anun/another-repo)** — "A collection of curated utility scripts and templates for automating development environments."
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
