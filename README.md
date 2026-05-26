@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Developer Banner" width="100%">
+  <img src="banner.png" alt="Developer Banner" width="40%">
 </p>
 
 # Hi there, I'm Arun 👋
