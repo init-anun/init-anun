@@ -44,9 +44,10 @@ I am a software engineer focused on building clean, efficient, and scalable web 
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=init-anun&show_icons=true&bg_color=00000000&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&hide_border=true&count_private=true" alt="init-anun's GitHub stats" />
 </p>
+-->
