@@ -12,7 +12,7 @@ I am a software engineer focused on building clean, efficient, and scalable web 
 
 - 🔭 **Current Focus**: Building full-stack web applications and refining developer workflows.
 - 🛠️ **Engineering Practices**: Emphasizing modular architecture, test-driven development, and database performance optimization.
-- 📖 **Learning & Growth**: Exploring systems design patterns, distributed architecture, and backend systems in Python and Rust.
+- 📖 **Learning & Growth**: Exploring systems design patterns, distributed architecture, and backend systems in Python.
 
 ---
 
@@ -24,7 +24,6 @@ I am a software engineer focused on building clean, efficient, and scalable web 
   <img src="https://img.shields.io/badge/JavaScript-%230F172A?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-%230F172A?style=flat-square&logo=nodedotjs&logoColor=%235FA04E" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-%230F172A?style=flat-square&logo=python&logoColor=%233776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-%230F172A?style=flat-square&logo=rust&logoColor=%2300ADD8" alt="Rust" />
 </p>
 
 **Frameworks & Libraries**
